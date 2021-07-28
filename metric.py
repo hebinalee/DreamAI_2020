@@ -1,5 +1,8 @@
-import torch
+###############################
+## COMPUTE VALIDATION METRICS
+###############################
 
+import torch
 
 def accuracy(output, target):
     with torch.no_grad():
