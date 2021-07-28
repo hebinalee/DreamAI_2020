@@ -9,6 +9,7 @@ This code is to build demo website for deployment of our suggested service COvid
 - **metrics.py**                 -----  to compute evaluation metrics<br />
 - **utils.py**                   -----  functions utilized in main script<br /><br />
 
-Web
+Here is a screenshot for out website.<br />
+(./website_main.png)<br /><br />
 
 **copyrightⓒ 2008 All rights reserved by Hyebin Lee, Youngtack Oh, and Seungwan Jeong<br /><br />**
