@@ -1,3 +1,7 @@
+#####################################
+## FUNCTIONS TO BE UTILIZED IN CODE
+#####################################
+
 # +
 import json
 import os
