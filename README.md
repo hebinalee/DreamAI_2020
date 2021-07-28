@@ -1,5 +1,5 @@
 ## DreamAI_2020 ##
-Submitted code for 2020 Dream AI Healthcare Hackathon (2020 꿈꾸는아이 헬스케어 해커톤)<br />
+Submitted code for **2020 Dream AI Healthcare Hackathon (2020 꿈꾸는아이 헬스케어 해커톤)**<br />
 hosted by GIST Institute for Artificial Intelligence and NVIDIA<br />
 Link: https://dreamai.kr/fair_nvidia<br /><br />
 
