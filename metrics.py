@@ -1,5 +1,5 @@
 ###############################
-## COMPUTE VALIDATION METRICS
+## COMPUTE EVALUATION METRICS
 ###############################
 
 import torch
