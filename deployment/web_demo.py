@@ -44,7 +44,6 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 num_classes = 2
 
 
-
 # -
 total_tic = time.time()
 
@@ -127,9 +126,6 @@ mel_spectrogram = nn.Sequential(
                                 AT.AmplitudeToDB())
 # Get a prediction
 def get_prediction(image_tensor, audio_tensor, mode = ''):
-    '''
-    Help yt-oh!
-    '''
     out=''
     
     if mode == 'image_audio':
