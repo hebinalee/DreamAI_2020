@@ -11,4 +11,4 @@ Link: https://dreamai.kr/fair_nvidia<br /><br />
 - **metrics.py**                 -----  to compute evaluation metrics<br />
 - **utils.py**                   -----  functions utilized in main script<br />
 
-**copyrightⓒ 2008 All rights reserved by Hyebin Lee, Youngtack Oh, and Seungwan Jeong<br /><br />**
+**copyrightⓒ 2020 All rights reserved by Hyebin Lee, Youngtack Oh, and Seungwan Jeong<br /><br />**
