@@ -1,5 +1,5 @@
 ## DEPLOYMENT ##
-This code is to build demo website for deployment of our suggested service COughX<br /><br />
+This code is to build demo website for deployment of our suggested service **COughX**<br /><br />
 
 - **Image_Audio_dataset.ipynb**  -----  to load image and audio dataset<br />
 - **audiodataset.py**            -----  to load and preprocess audio data<br />
