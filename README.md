@@ -13,7 +13,7 @@ hosted by GIST Institute for Artificial Intelligence and NVIDIA<br />
 - **metrics.py**　　　　　　　　　-----　to compute evaluation metrics<br />
 - **utils.py**　　　　　　　　　　-----　functions utilized in main script<br /><br />
 
-## Directory structure
+## Directory Structure
 ```bash
 ├── deployment
 │   ├── static
