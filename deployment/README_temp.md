@@ -41,9 +41,9 @@
 
 ## About The Project
 1. 사람 얼굴 이미지를 기반으로 AI를 활용해서 UV 맵을 합성하는 기술 개발
-<p align="center"><img src="./website_main.png"></p>
+<p align="center"><img src="./website_main.png"></p></br>
 2. 개발된 AI 기술을 기반으로 MVP 사이트 구현
-<p align="center"><img src="./website_main.png"></p>
+<p align="center"><img src="./website_main.png"></p></br>
 - 참고: [프로젝트 가이드](https://jira.com2us.com/wiki/pages/viewpage.action?pageId=268616336)</br></br>
 
 
